@@ -1,3 +1,6 @@
+/*the problem
+here are two numbers,add them.*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
